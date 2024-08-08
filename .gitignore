@@ -1,8 +1,9 @@
 /data*
-/images*
 /logs*
 /*out*
 /models*
 *.nbconvert.ipynb
 
 .ipynb_checkpoints
+/track*
+notes.ipynb
